@@ -52,9 +52,9 @@ print(f"Your birthday is in {weeks} weeks")
 // is called floor division (or integer division).
 It divides two numbers and returns the whole number part only, removing any decimal.
 
-Example:
-
-print(10 / 3) => 3.3333333333333335
-print(10 // 3) => 3
+| Operator | Meaning         | Example   | Result              |
+| -------- | --------------- | --------- | ------------------- |
+| `/`      | Normal division | `40 / 7`  | `5.714285714285714` |
+| `//`     | Floor division  | `40 // 7` | `5`                 |
 
 """
